@@ -10,10 +10,9 @@
 - Para ver a pasta, digitar dir
 - Echo: ele imprime o que eu digito na frente
 - Del: delete tudo
-- Rmdir: remove o arquivo, porém precisa colocar o nome da pasta (workspace) e
- p s e q depois, exemplo: rmdir workspace /S /Q
+- Rmdir: remove o arquivo, porém precisa colocar o nome da pasta (workspace) e p s e q depois, exemplo: rmdir workspace /S /Q
 
-GitHub - https://www.codigofonte.com.br/artigos/top-25-comandos-do-git
+Comandos GitHub - https://www.codigofonte.com.br/artigos/top-25-comandos-do-git
 
 
 
