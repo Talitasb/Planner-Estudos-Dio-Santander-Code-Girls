@@ -1,0 +1,2 @@
+- Variável: muda o numero
+- Constante: não muda
